@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datasets / generated data
+dataset/
+datasets/
+data/
+outputs/*
+*.zip
+*.pth
+*.pt
+*.onnx
+*.h5
+
+# Local / Colab caches
+.cache/
+wandb/
